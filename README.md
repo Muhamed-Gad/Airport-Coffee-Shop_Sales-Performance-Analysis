@@ -6,7 +6,7 @@ This project presents an end-to-end data analysis and business intelligence solu
 *This project was developed as a practical application of Data Analysis and Microsoft Power BI skills acquired during the Digital Egypt Pioneers Initiative (DEPI) scholarship.*
 
 ## 👤 Author
-**Gad**
+**Mohamed Gad**
 *Mechatronics Engineering Student | Data Analyst*
 
 ## 🗂️ Dataset Description
