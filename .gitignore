@@ -1,0 +1,32 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Power BI files (optional - comment out if you want to commit them)
+# *.pbix
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+# Node modules
+node_modules/
+npm-debug.log
+
+# Temp files
+temp/
+tmp/
